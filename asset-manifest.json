@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movie-characters/static/css/main.c31d91c2.css",
+    "main.js": "/movie-characters/static/js/main.97260e62.js",
+    "static/js/787.cef29963.chunk.js": "/movie-characters/static/js/787.cef29963.chunk.js",
+    "index.html": "/movie-characters/index.html",
+    "static/media/signOut.svg": "/movie-characters/static/media/signOut.0eb92d3f56f97710ec955a26bac2c7e3.svg",
+    "main.c31d91c2.css.map": "/movie-characters/static/css/main.c31d91c2.css.map",
+    "main.97260e62.js.map": "/movie-characters/static/js/main.97260e62.js.map",
+    "787.cef29963.chunk.js.map": "/movie-characters/static/js/787.cef29963.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c31d91c2.css",
+    "static/js/main.97260e62.js"
+  ]
+}
